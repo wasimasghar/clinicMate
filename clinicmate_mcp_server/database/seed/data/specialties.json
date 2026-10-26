@@ -1,0 +1,18 @@
+[
+  { "name": "General Physician",   "name_urdu": "جنرل فزیشن",        "description": "Fever, flu, infections and general health problems" },
+  { "name": "Dermatologist",       "name_urdu": "جلد کا ماہر",        "description": "Skin, hair and nail problems" },
+  { "name": "Gynecologist",        "name_urdu": "گائناکالوجسٹ",       "description": "Women's health, pregnancy and childbirth" },
+  { "name": "Pediatrician",        "name_urdu": "بچوں کا ماہر",        "description": "Health of babies and children" },
+  { "name": "Cardiologist",        "name_urdu": "دل کا ماہر",          "description": "Heart, blood pressure and cholesterol" },
+  { "name": "Dentist",             "name_urdu": "دانتوں کا ماہر",      "description": "Teeth and gums" },
+  { "name": "ENT Specialist",      "name_urdu": "ناک کان گلے کا ماہر", "description": "Ear, nose, throat and sinus problems" },
+  { "name": "Audiologist",         "name_urdu": "سماعت کا ماہر",       "description": "Hearing tests, hearing aids and hearing loss" },
+  { "name": "Oncologist",          "name_urdu": "کینسر کا ماہر",       "description": "Cancer diagnosis and treatment" },
+  { "name": "Endocrinologist",     "name_urdu": "ہارمونز کا ماہر",     "description": "Diabetes, thyroid and hormone problems" },
+  { "name": "Pulmonologist",       "name_urdu": "پھیپھڑوں کا ماہر",    "description": "Asthma, TB and breathing problems" },
+  { "name": "Gastroenterologist",  "name_urdu": "معدے کا ماہر",        "description": "Stomach, liver and digestion problems" },
+  { "name": "Allergist",           "name_urdu": "الرجی کا ماہر",       "description": "Nasal, skin and food allergies" },
+  { "name": "Neurologist",         "name_urdu": "دماغ و اعصاب کا ماہر", "description": "Headache, migraine, vertigo and nerve problems" },
+  { "name": "Orthopedic Surgeon",  "name_urdu": "ہڈیوں کا ماہر",       "description": "Bones, joints and back pain" },
+  { "name": "Psychiatrist",        "name_urdu": "ذہنی صحت کا ماہر",    "description": "Anxiety, depression and mental health" }
+]

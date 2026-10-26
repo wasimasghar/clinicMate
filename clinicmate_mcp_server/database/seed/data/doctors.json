@@ -1,0 +1,785 @@
+[
+  {
+    "full_name": "Dr. Ahmed Raza",
+    "gender": "male",
+    "specialty": "General Physician",
+    "qualifications": "MBBS",
+    "experience_years": 12,
+    "consultation_fee": 1500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Family doctor treating fever, flu, typhoid, dengue and seasonal infections. Also manages blood pressure and diabetes follow-ups for adults.",
+    "schedules": [
+      { "clinic": "Gulberg Family Clinic", "days": [1, 2, 3, 4, 5], "start": "17:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Sana Iqbal",
+    "gender": "female",
+    "specialty": "General Physician",
+    "qualifications": "MBBS, MCPS (Family Medicine)",
+    "experience_years": 8,
+    "consultation_fee": 1500,
+    "languages": ["English", "Urdu", "Sindhi"],
+    "about": "Family medicine doctor for adults and elderly patients. Common cases include gastro, viral fever, weakness and routine check-ups.",
+    "schedules": [
+      { "clinic": "Gulshan Medical Centre", "days": [1, 3, 5], "start": "10:00", "end": "14:00", "slot_minutes": 20 },
+      { "clinic": "North Nazimabad Care Clinic", "days": [2, 4, 6], "start": "18:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Usman Tariq",
+    "gender": "male",
+    "specialty": "General Physician",
+    "qualifications": "MBBS",
+    "experience_years": 5,
+    "consultation_fee": 1000,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "General physician for everyday illnesses like cough, cold, stomach upset, typhoid and malaria. Known for affordable fees and evening timings.",
+    "schedules": [
+      { "clinic": "Madina Town Medical Centre", "days": [1, 2, 3, 4, 5, 6], "start": "16:00", "end": "20:00", "slot_minutes": 15 }
+    ]
+  },
+  {
+    "full_name": "Dr. Hira Shah",
+    "gender": "female",
+    "specialty": "General Physician",
+    "qualifications": "MBBS, MRCGP (UK)",
+    "experience_years": 15,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "UK-trained general practitioner. Focus on preventive health, women's general health, thyroid and cholesterol screening, and long-term care plans.",
+    "schedules": [
+      { "clinic": "F-8 Medical Centre", "days": [1, 2, 3, 4, 5], "start": "09:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Bilal Khan",
+    "gender": "male",
+    "specialty": "General Physician",
+    "qualifications": "MBBS",
+    "experience_years": 10,
+    "consultation_fee": 1500,
+    "languages": ["English", "Urdu", "Pashto"],
+    "about": "General physician treating infections, hepatitis follow-ups, high fever and body pain. Speaks Pashto and sees many patients from KPK.",
+    "schedules": [
+      { "clinic": "Saddar Medical Complex", "days": [1, 2, 3, 4, 5, 6], "start": "18:00", "end": "22:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Ayesha Malik",
+    "gender": "female",
+    "specialty": "General Physician",
+    "qualifications": "MBBS, FCPS (Medicine)",
+    "experience_years": 9,
+    "consultation_fee": 2000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Internal medicine specialist for diabetes, blood pressure, TB treatment follow-up and unexplained fever in adults.",
+    "schedules": [
+      { "clinic": "Johar Town Care Hospital", "days": [2, 4, 6], "start": "10:00", "end": "14:00", "slot_minutes": 20 },
+      { "clinic": "Allama Iqbal Town Clinic", "days": [1, 3, 5], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Farah Naz",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "qualifications": "MBBS, FCPS (Dermatology)",
+    "experience_years": 14,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu"],
+    "about": "Dermatologist for acne, pigmentation, hair fall and eczema. Also treats skin allergy, hives and chronic itching.",
+    "schedules": [
+      { "clinic": "DHA Medical Centre", "days": [1, 3, 5], "start": "16:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Kamran Siddiqui",
+    "gender": "male",
+    "specialty": "Dermatologist",
+    "qualifications": "MBBS, MCPS (Dermatology)",
+    "experience_years": 7,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "Skin specialist treating fungal infections, psoriasis, scabies and allergic skin rashes common in humid weather.",
+    "schedules": [
+      { "clinic": "Clifton Specialist Clinic", "days": [2, 4, 6], "start": "17:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Mehwish Akhtar",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "qualifications": "MBBS, Diploma in Dermatology (UK)",
+    "experience_years": 11,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu"],
+    "about": "Dermatologist with interest in acne scars, melasma, hair and scalp problems, and contact dermatitis from cosmetics and perfumes.",
+    "schedules": [
+      { "clinic": "Blue Area Specialist Clinic", "days": [1, 2, 4], "start": "11:00", "end": "15:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Imran Javed",
+    "gender": "male",
+    "specialty": "Dermatologist",
+    "qualifications": "MBBS, FCPS (Dermatology)",
+    "experience_years": 18,
+    "consultation_fee": 4000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Senior dermatologist for vitiligo, psoriasis, severe acne and long-standing eczema. Sees both adults and children.",
+    "schedules": [
+      { "clinic": "Gulberg Family Clinic", "days": [2, 4, 6], "start": "11:00", "end": "14:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Rabia Anwar",
+    "gender": "female",
+    "specialty": "Dermatologist",
+    "qualifications": "MBBS, FCPS (Dermatology)",
+    "experience_years": 6,
+    "consultation_fee": 2000,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Dermatologist for acne, skin allergy, fungal infections and hair fall at affordable fees.",
+    "schedules": [
+      { "clinic": "D Ground Family Clinic", "days": [1, 3, 5], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Nadia Hassan",
+    "gender": "female",
+    "specialty": "Gynecologist",
+    "qualifications": "MBBS, FCPS (Obstetrics & Gynecology)",
+    "experience_years": 20,
+    "consultation_fee": 4000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Senior gynecologist for pregnancy care, high-risk pregnancy, PCOS and irregular periods. Also does cervical cancer screening.",
+    "schedules": [
+      { "clinic": "Model Town Health Point", "days": [1, 2, 3, 4], "start": "10:00", "end": "14:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Saima Qureshi",
+    "gender": "female",
+    "specialty": "Gynecologist",
+    "qualifications": "MBBS, MRCOG (UK)",
+    "experience_years": 16,
+    "consultation_fee": 5000,
+    "languages": ["English", "Urdu"],
+    "about": "UK-trained gynecologist for infertility, pregnancy care, menopause and PCOS management.",
+    "schedules": [
+      { "clinic": "DHA Karachi Health Centre", "days": [1, 3, 5], "start": "16:00", "end": "20:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Amna Butt",
+    "gender": "female",
+    "specialty": "Gynecologist",
+    "qualifications": "MBBS, FCPS (Obstetrics & Gynecology)",
+    "experience_years": 9,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu"],
+    "about": "Gynecologist for antenatal check-ups, normal delivery planning, period problems and family planning advice.",
+    "schedules": [
+      { "clinic": "E-11 Care Hospital", "days": [2, 4, 6], "start": "10:00", "end": "13:00", "slot_minutes": 20 },
+      { "clinic": "Bahria Phase 7 Health Centre", "days": [1, 3], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Zainab Mirza",
+    "gender": "female",
+    "specialty": "Gynecologist",
+    "qualifications": "MBBS, MCPS (Obstetrics & Gynecology)",
+    "experience_years": 7,
+    "consultation_fee": 2500,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Gynecologist for pregnancy follow-ups, anemia in pregnancy, PCOS and women's general health.",
+    "schedules": [
+      { "clinic": "Satellite Town Clinic", "days": [1, 2, 3, 4, 5], "start": "18:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },  {
+    "full_name": "Dr. Maryam Farooq",
+    "gender": "female",
+    "specialty": "Gynecologist",
+    "qualifications": "MBBS, FCPS (Obstetrics & Gynecology)",
+    "experience_years": 12,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Gynecologist for pregnancy care, PCOS, heavy periods and breast health check-ups including breast lump evaluation.",
+    "schedules": [
+      { "clinic": "Madina Town Medical Centre", "days": [2, 4, 6], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Faisal Rehman",
+    "gender": "male",
+    "specialty": "Pediatrician",
+    "qualifications": "MBBS, FCPS (Paediatrics)",
+    "experience_years": 15,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Child specialist for fever, diarrhea, chest infections, vaccination and growth monitoring of babies and children.",
+    "schedules": [
+      { "clinic": "Bahria Town Medical Complex", "days": [1, 2, 3, 4, 5], "start": "17:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Sadia Noor",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "qualifications": "MBBS, DCH",
+    "experience_years": 8,
+    "consultation_fee": 2000,
+    "languages": ["English", "Urdu", "Sindhi"],
+    "about": "Pediatrician for newborn care, breastfeeding advice, vaccination schedule, dengue and typhoid in children.",
+    "schedules": [
+      { "clinic": "PECHS Family Hospital", "days": [1, 3, 5], "start": "10:00", "end": "14:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Hamza Ali",
+    "gender": "male",
+    "specialty": "Pediatrician",
+    "qualifications": "MBBS, MRCPCH (UK)",
+    "experience_years": 11,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu"],
+    "about": "UK-trained pediatrician for childhood asthma, food allergy in children, recurrent ear infections and developmental delays.",
+    "schedules": [
+      { "clinic": "G-11 Family Health Clinic", "days": [2, 4, 6], "start": "17:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Kiran Aslam",
+    "gender": "female",
+    "specialty": "Pediatrician",
+    "qualifications": "MBBS, FCPS (Paediatrics)",
+    "experience_years": 13,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Child specialist for malnutrition, anemia, gastro and seasonal flu in children. Also guides parents on healthy diet.",
+    "schedules": [
+      { "clinic": "Saddar Medical Complex", "days": [1, 2, 3, 4, 5], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Waqar Ahmed",
+    "gender": "male",
+    "specialty": "Pediatrician",
+    "qualifications": "MBBS, DCH",
+    "experience_years": 6,
+    "consultation_fee": 1500,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Pediatrician for cough, cold, fever, vomiting and vaccination of children at affordable fees.",
+    "schedules": [
+      { "clinic": "D Ground Family Clinic", "days": [1, 2, 3, 4, 5, 6], "start": "10:00", "end": "13:00", "slot_minutes": 15 }
+    ]
+  },
+  {
+    "full_name": "Dr. Tahir Mehmood",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "qualifications": "MBBS, FCPS (Cardiology)",
+    "experience_years": 22,
+    "consultation_fee": 5000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Senior cardiologist for chest pain, heart attack follow-up, heart failure, angiography advice and high blood pressure.",
+    "schedules": [
+      { "clinic": "DHA Medical Centre", "days": [2, 4], "start": "17:00", "end": "21:00", "slot_minutes": 30 },
+      { "clinic": "Johar Town Care Hospital", "days": [6], "start": "15:00", "end": "18:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Shazia Karim",
+    "gender": "female",
+    "specialty": "Cardiologist",
+    "qualifications": "MBBS, MRCP (UK), FCPS (Cardiology)",
+    "experience_years": 14,
+    "consultation_fee": 4500,
+    "languages": ["English", "Urdu"],
+    "about": "Cardiologist for palpitations, high cholesterol, blood pressure and heart disease in women.",
+    "schedules": [
+      { "clinic": "Clifton Specialist Clinic", "days": [1, 3, 5], "start": "11:00", "end": "15:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Asad Ullah",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "qualifications": "MBBS, FCPS (Cardiology)",
+    "experience_years": 10,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu", "Pashto"],
+    "about": "Cardiologist for chest pain, breathlessness on walking, cholesterol and heart check-ups including ECG and echo advice.",
+    "schedules": [
+      { "clinic": "Blue Area Specialist Clinic", "days": [3, 5, 6], "start": "17:00", "end": "21:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Naveed Akram",
+    "gender": "male",
+    "specialty": "Cardiologist",
+    "qualifications": "MBBS, FCPS (Cardiology)",
+    "experience_years": 17,
+    "consultation_fee": 4000,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Cardiologist for blood pressure, heart failure, irregular heartbeat and heart care for diabetic patients.",
+    "schedules": [
+      { "clinic": "Madina Town Medical Centre", "days": [1, 3, 5], "start": "10:00", "end": "13:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Sara Yousaf",
+    "gender": "female",
+    "specialty": "Dentist",
+    "qualifications": "BDS",
+    "experience_years": 6,
+    "consultation_fee": 1500,
+    "languages": ["English", "Urdu"],
+    "about": "Dentist for toothache, fillings, scaling, root canal and dental care for children.",
+    "schedules": [
+      { "clinic": "Model Town Health Point", "days": [1, 2, 3, 4, 5], "start": "16:00", "end": "20:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Omer Sheikh",
+    "gender": "male",
+    "specialty": "Dentist",
+    "qualifications": "BDS, FCPS (Operative Dentistry)",
+    "experience_years": 12,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "Dentist for root canal, crowns, bleeding gums and mouth ulcers. Screens for early signs of oral cancer in gutka and paan users.",
+    "schedules": [
+      { "clinic": "Gulshan Medical Centre", "days": [2, 4, 6], "start": "16:00", "end": "20:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Fatima Zahra",
+    "gender": "female",
+    "specialty": "Dentist",
+    "qualifications": "BDS, MSc (Orthodontics)",
+    "experience_years": 9,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu"],
+    "about": "Orthodontist for braces, crooked teeth, teeth whitening and smile correction for teens and adults.",
+    "schedules": [
+      { "clinic": "F-8 Medical Centre", "days": [2, 4, 6], "start": "15:00", "end": "19:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Junaid Iqbal",
+    "gender": "male",
+    "specialty": "Dentist",
+    "qualifications": "BDS",
+    "experience_years": 4,
+    "consultation_fee": 1000,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Dentist for tooth extraction, fillings, cleaning and toothache at low cost.",
+    "schedules": [
+      { "clinic": "Satellite Town Clinic", "days": [1, 3, 5], "start": "10:00", "end": "14:00", "slot_minutes": 30 }
+    ]
+  },  {
+    "full_name": "Dr. Shahid Latif",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "qualifications": "MBBS, FCPS (ENT)",
+    "experience_years": 19,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "ENT surgeon for chronic sinusitis, nasal polyps, deviated nose bone, ear discharge and hearing loss due to ear infection.",
+    "schedules": [
+      { "clinic": "Gulberg Family Clinic", "days": [1, 3, 5], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Nida Hameed",
+    "gender": "female",
+    "specialty": "ENT Specialist",
+    "qualifications": "MBBS, FCPS (ENT)",
+    "experience_years": 9,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "ENT specialist for allergic rhinitis, blocked nose, sneezing from dust and perfume, tonsillitis and throat infections.",
+    "schedules": [
+      { "clinic": "North Nazimabad Care Clinic", "days": [1, 3, 5], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Adeel Hussain",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "qualifications": "MBBS, DLO",
+    "experience_years": 7,
+    "consultation_fee": 2000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "ENT doctor for vertigo, dizziness, ear pain, ear wax removal and ringing in the ears.",
+    "schedules": [
+      { "clinic": "Bahria Phase 7 Health Centre", "days": [2, 4, 6], "start": "17:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Sobia Rafiq",
+    "gender": "female",
+    "specialty": "ENT Specialist",
+    "qualifications": "MBBS, FCPS (ENT)",
+    "experience_years": 12,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu"],
+    "about": "ENT specialist for children's ear infections, enlarged tonsils and adenoids, snoring and recurrent sore throat.",
+    "schedules": [
+      { "clinic": "E-11 Care Hospital", "days": [1, 3, 5], "start": "16:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Arif Chaudhry",
+    "gender": "male",
+    "specialty": "ENT Specialist",
+    "qualifications": "MBBS, FRCS (ENT, UK)",
+    "experience_years": 25,
+    "consultation_fee": 5000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Senior ENT surgeon for sudden hearing loss, cochlear implant surgery, ear drum repair and head and neck cancers.",
+    "schedules": [
+      { "clinic": "DHA Medical Centre", "days": [6], "start": "10:00", "end": "14:00", "slot_minutes": 30 },
+      { "clinic": "Bahria Town Medical Complex", "days": [3], "start": "10:00", "end": "13:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Mahnoor Saleem",
+    "gender": "female",
+    "specialty": "Audiologist",
+    "qualifications": "BS Audiology, MS Audiology",
+    "experience_years": 8,
+    "consultation_fee": 2000,
+    "languages": ["English", "Urdu"],
+    "about": "Audiologist for hearing tests (audiometry), hearing aid selection and fitting, and age-related hearing loss in elderly patients.",
+    "schedules": [
+      { "clinic": "Johar Town Care Hospital", "days": [1, 3, 5], "start": "10:00", "end": "14:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Fahad Zaman",
+    "gender": "male",
+    "specialty": "Audiologist",
+    "qualifications": "MS Audiology",
+    "experience_years": 6,
+    "consultation_fee": 1800,
+    "languages": ["English", "Urdu", "Sindhi"],
+    "about": "Audiologist for tinnitus, noise-induced hearing loss from headphones or factory work, and rechargeable and Bluetooth hearing aids.",
+    "schedules": [
+      { "clinic": "PECHS Family Hospital", "days": [2, 4, 6], "start": "16:00", "end": "20:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Iqra Javaid",
+    "gender": "female",
+    "specialty": "Audiologist",
+    "qualifications": "Doctor of Audiology (AuD)",
+    "experience_years": 10,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "Pediatric audiologist for newborn hearing screening, BERA test, hearing aids for children and cochlear implant mapping.",
+    "schedules": [
+      { "clinic": "F-8 Medical Centre", "days": [1, 3, 5], "start": "15:00", "end": "19:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Salman Haider",
+    "gender": "male",
+    "specialty": "Oncologist",
+    "qualifications": "MBBS, FCPS (Medical Oncology)",
+    "experience_years": 16,
+    "consultation_fee": 5000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Medical oncologist for breast cancer and colon cancer treatment, chemotherapy planning and follow-up after cancer surgery.",
+    "schedules": [
+      { "clinic": "Allama Iqbal Town Clinic", "days": [2, 4], "start": "10:00", "end": "14:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Rubina Aziz",
+    "gender": "female",
+    "specialty": "Oncologist",
+    "qualifications": "MBBS, FCPS (Clinical Oncology)",
+    "experience_years": 18,
+    "consultation_fee": 5000,
+    "languages": ["English", "Urdu"],
+    "about": "Clinical oncologist for breast cancer and cervical cancer, radiotherapy advice and cancer screening for women.",
+    "schedules": [
+      { "clinic": "DHA Karachi Health Centre", "days": [2, 4, 6], "start": "10:00", "end": "14:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Khurram Shahzad",
+    "gender": "male",
+    "specialty": "Oncologist",
+    "qualifications": "MBBS, FCPS (Medical Oncology)",
+    "experience_years": 11,
+    "consultation_fee": 4000,
+    "languages": ["English", "Urdu", "Pashto"],
+    "about": "Oncologist for liver cancer in hepatitis B and C patients, oral cancer and second opinions on cancer treatment.",
+    "schedules": [
+      { "clinic": "Saddar Medical Complex", "days": [2, 4, 6], "start": "14:00", "end": "17:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Ammar Yasir",
+    "gender": "male",
+    "specialty": "Endocrinologist",
+    "qualifications": "MBBS, FCPS (Endocrinology)",
+    "experience_years": 13,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Endocrinologist for type 1 and type 2 diabetes, insulin adjustment, thyroid problems and weight gain due to hormones.",
+    "schedules": [
+      { "clinic": "Model Town Health Point", "days": [6], "start": "16:00", "end": "20:00", "slot_minutes": 20 },
+      { "clinic": "Bahria Town Medical Complex", "days": [2, 4], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Huma Riaz",
+    "gender": "female",
+    "specialty": "Endocrinologist",
+    "qualifications": "MBBS, MRCP (UK), Endocrinology",
+    "experience_years": 15,
+    "consultation_fee": 4000,
+    "languages": ["English", "Urdu"],
+    "about": "Endocrinologist for thyroid disorders, PCOS hormone problems, diabetes in pregnancy and vitamin D deficiency.",
+    "schedules": [
+      { "clinic": "Clifton Specialist Clinic", "days": [2, 4, 6], "start": "11:00", "end": "14:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Zeeshan Abbasi",
+    "gender": "male",
+    "specialty": "Endocrinologist",
+    "qualifications": "MBBS, FCPS (Medicine), Diabetology",
+    "experience_years": 8,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu", "Pashto"],
+    "about": "Diabetes specialist for high sugar, insulin start, diet planning and diabetic complications like kidney and nerve problems.",
+    "schedules": [
+      { "clinic": "G-11 Family Health Clinic", "days": [1, 3, 5], "start": "10:00", "end": "14:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Shabana Ghafoor",
+    "gender": "female",
+    "specialty": "Endocrinologist",
+    "qualifications": "MBBS, FCPS (Endocrinology)",
+    "experience_years": 10,
+    "consultation_fee": 3000,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Endocrinologist for diabetes, diabetic foot care, thyroid swelling (goitre) and hormone-related weight problems.",
+    "schedules": [
+      { "clinic": "D Ground Family Clinic", "days": [2, 4, 6], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },  {
+    "full_name": "Dr. Rizwan Ashraf",
+    "gender": "male",
+    "specialty": "Pulmonologist",
+    "qualifications": "MBBS, FCPS (Pulmonology)",
+    "experience_years": 14,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Chest specialist for asthma, TB, chronic cough and breathing problems that get worse in Lahore smog season.",
+    "schedules": [
+      { "clinic": "Allama Iqbal Town Clinic", "days": [1, 3, 5], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Saba Kazmi",
+    "gender": "female",
+    "specialty": "Pulmonologist",
+    "qualifications": "MBBS, FCPS (Pulmonology)",
+    "experience_years": 9,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "Pulmonologist for asthma, COPD in smokers, shortness of breath and lung function tests.",
+    "schedules": [
+      { "clinic": "Gulshan Medical Centre", "days": [2, 4, 6], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Javed Khattak",
+    "gender": "male",
+    "specialty": "Pulmonologist",
+    "qualifications": "MBBS, FCPS (Pulmonology)",
+    "experience_years": 20,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu", "Pashto"],
+    "about": "Senior chest specialist for TB treatment, allergic asthma from pollen in spring, and long-term lung diseases.",
+    "schedules": [
+      { "clinic": "Blue Area Specialist Clinic", "days": [3, 5], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Mohsin Raza",
+    "gender": "male",
+    "specialty": "Gastroenterologist",
+    "qualifications": "MBBS, FCPS (Gastroenterology)",
+    "experience_years": 15,
+    "consultation_fee": 4000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Gastroenterologist for hepatitis B and C, fatty liver, endoscopy and stomach ulcers.",
+    "schedules": [
+      { "clinic": "Johar Town Care Hospital", "days": [2, 4], "start": "17:00", "end": "21:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Uzma Siddiqui",
+    "gender": "female",
+    "specialty": "Gastroenterologist",
+    "qualifications": "MBBS, FCPS (Gastroenterology)",
+    "experience_years": 11,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu"],
+    "about": "Stomach specialist for acidity, IBS, constipation, gastro and digestive problems after typhoid.",
+    "schedules": [
+      { "clinic": "North Nazimabad Care Clinic", "days": [2, 4, 6], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Tariq Nawaz",
+    "gender": "male",
+    "specialty": "Gastroenterologist",
+    "qualifications": "MBBS, FCPS (Gastroenterology)",
+    "experience_years": 9,
+    "consultation_fee": 3000,
+    "languages": ["Urdu", "Punjabi"],
+    "about": "Gastroenterologist for hepatitis C treatment, jaundice, chronic diarrhea and liver check-ups.",
+    "schedules": [
+      { "clinic": "Madina Town Medical Centre", "days": [1, 3, 5], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Shireen Aftab",
+    "gender": "female",
+    "specialty": "Allergist",
+    "qualifications": "MBBS, Diploma in Allergy & Clinical Immunology",
+    "experience_years": 12,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu"],
+    "about": "Allergy specialist for pollen allergy (paper mulberry) in Islamabad, allergic rhinitis, skin prick testing and allergy shots.",
+    "schedules": [
+      { "clinic": "E-11 Care Hospital", "days": [2, 4, 6], "start": "16:00", "end": "19:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Haris Mumtaz",
+    "gender": "male",
+    "specialty": "Allergist",
+    "qualifications": "MBBS, FCPS (Medicine), Fellowship in Allergy",
+    "experience_years": 8,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Allergist for smog allergy, dust mite allergy, sneezing from perfume and strong smells, and allergic cough.",
+    "schedules": [
+      { "clinic": "DHA Medical Centre", "days": [1, 3, 5], "start": "10:00", "end": "13:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Lubna Shafiq",
+    "gender": "female",
+    "specialty": "Allergist",
+    "qualifications": "MBBS, MCPS, Allergy & Immunology",
+    "experience_years": 10,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu", "Sindhi"],
+    "about": "Allergist for food allergy (milk, egg, peanut, seafood), hives and follow-up after severe allergic reactions.",
+    "schedules": [
+      { "clinic": "PECHS Family Hospital", "days": [1, 3, 5], "start": "16:00", "end": "19:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Kashif Mehmood",
+    "gender": "male",
+    "specialty": "Neurologist",
+    "qualifications": "MBBS, FCPS (Neurology)",
+    "experience_years": 16,
+    "consultation_fee": 4000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Neurologist for migraine, epilepsy, stroke follow-up and Parkinson's disease.",
+    "schedules": [
+      { "clinic": "Bahria Town Medical Complex", "days": [1, 5], "start": "10:00", "end": "13:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Naila Shaukat",
+    "gender": "female",
+    "specialty": "Neurologist",
+    "qualifications": "MBBS, FCPS (Neurology)",
+    "experience_years": 10,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu"],
+    "about": "Neurologist for chronic headache, vertigo from nerve causes, numbness and tingling in hands and feet.",
+    "schedules": [
+      { "clinic": "G-11 Family Health Clinic", "days": [2, 4], "start": "10:00", "end": "14:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Faraz Ahmed",
+    "gender": "male",
+    "specialty": "Neurologist",
+    "qualifications": "MBBS, FCPS (Neurology)",
+    "experience_years": 7,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu", "Pashto"],
+    "about": "Neurologist for fits (seizures), memory problems in elderly, nerve pain and sleep-related headaches.",
+    "schedules": [
+      { "clinic": "Satellite Town Clinic", "days": [2, 4, 6], "start": "10:00", "end": "13:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Waseem Akhtar",
+    "gender": "male",
+    "specialty": "Orthopedic Surgeon",
+    "qualifications": "MBBS, FCPS (Orthopaedics)",
+    "experience_years": 18,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Orthopedic surgeon for knee pain, back pain, fractures and joint replacement in elderly patients.",
+    "schedules": [
+      { "clinic": "Johar Town Care Hospital", "days": [1, 3, 5], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Sameer Baig",
+    "gender": "male",
+    "specialty": "Orthopedic Surgeon",
+    "qualifications": "MBBS, FCPS (Orthopaedics)",
+    "experience_years": 9,
+    "consultation_fee": 2500,
+    "languages": ["English", "Urdu"],
+    "about": "Orthopedic doctor for sports injuries, ligament tears, shoulder pain and neck pain from long desk work.",
+    "schedules": [
+      { "clinic": "DHA Karachi Health Centre", "days": [2, 4, 6], "start": "17:00", "end": "20:00", "slot_minutes": 20 }
+    ]
+  },
+  {
+    "full_name": "Dr. Mariam Rauf",
+    "gender": "female",
+    "specialty": "Psychiatrist",
+    "qualifications": "MBBS, FCPS (Psychiatry)",
+    "experience_years": 12,
+    "consultation_fee": 3500,
+    "languages": ["English", "Urdu"],
+    "about": "Psychiatrist for anxiety, depression, panic attacks and sleep problems. Private and judgement-free consultations.",
+    "schedules": [
+      { "clinic": "Blue Area Specialist Clinic", "days": [1, 3], "start": "16:00", "end": "20:00", "slot_minutes": 30 }
+    ]
+  },
+  {
+    "full_name": "Dr. Hassan Jamil",
+    "gender": "male",
+    "specialty": "Psychiatrist",
+    "qualifications": "MBBS, FCPS (Psychiatry)",
+    "experience_years": 8,
+    "consultation_fee": 3000,
+    "languages": ["English", "Urdu", "Punjabi"],
+    "about": "Psychiatrist for stress, depression, OCD and addiction recovery support for young adults.",
+    "schedules": [
+      { "clinic": "Allama Iqbal Town Clinic", "days": [2, 4, 6], "start": "17:00", "end": "20:00", "slot_minutes": 30 }
+    ]
+  }
+]

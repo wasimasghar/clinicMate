@@ -1,0 +1,12 @@
+[
+  { "full_name": "Ali Hassan",      "phone": "03000000001", "email": "ali.hassan@example.com",      "gender": "male",   "date_of_birth": "1990-04-12", "city": "Lahore" },
+  { "full_name": "Fatima Noor",     "phone": "03000000002", "email": "fatima.noor@example.com",     "gender": "female", "date_of_birth": "1995-08-23", "city": "Lahore" },
+  { "full_name": "Hamid Qureshi",   "phone": "03000000003", "email": "hamid.qureshi@example.com",   "gender": "male",   "date_of_birth": "1958-01-30", "city": "Lahore" },
+  { "full_name": "Sadia Khan",      "phone": "03000000004", "email": "sadia.khan@example.com",      "gender": "female", "date_of_birth": "1988-11-05", "city": "Karachi" },
+  { "full_name": "Arsalan Memon",   "phone": "03000000005", "email": "arsalan.memon@example.com",   "gender": "male",   "date_of_birth": "2000-06-17", "city": "Karachi" },
+  { "full_name": "Hina Abbasi",     "phone": "03000000006", "email": "hina.abbasi@example.com",     "gender": "female", "date_of_birth": "1992-03-09", "city": "Islamabad" },
+  { "full_name": "Gul Khan",        "phone": "03000000007", "email": "gul.khan@example.com",        "gender": "male",   "date_of_birth": "1975-09-21", "city": "Islamabad" },
+  { "full_name": "Rehana Bibi",     "phone": "03000000008", "email": null,                          "gender": "female", "date_of_birth": "1965-12-14", "city": "Rawalpindi" },
+  { "full_name": "Danish Javed",    "phone": "03000000009", "email": "danish.javed@example.com",    "gender": "male",   "date_of_birth": "1998-02-28", "city": "Rawalpindi" },
+  { "full_name": "Nimra Aslam",     "phone": "03000000010", "email": "nimra.aslam@example.com",     "gender": "female", "date_of_birth": "2003-07-01", "city": "Faisalabad" }
+]

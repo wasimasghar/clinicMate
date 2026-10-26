@@ -1,0 +1,18 @@
+# .gitignore
+# Files that must never go to Git: secrets, virtual environments, caches.
+
+# Secrets
+.env
+*firebase*adminsdk*.json
+firebase_credentials.json
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,7 @@
+# Python dependencies for the MCP server
+# requirements.txt
+# Python packages for the MCP server.
+psycopg[binary,pool]>=3.2
+python-dotenv>=1.0
+mcp[cli]>=1.9,<2
+google-genai>=1.0

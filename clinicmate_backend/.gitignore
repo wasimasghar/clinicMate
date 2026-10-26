@@ -1,0 +1,9 @@
+# Git ignore rules for the backend
+# .gitignore
+# Files that must never go to Git (secrets, virtual env, Python cache).
+.env
+.venv/
+__pycache__/
+# Firebase service account key (secret)
+*firebase*adminsdk*.json
+firebase_credentials.json

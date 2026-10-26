@@ -1,0 +1,9 @@
+# Python dependencies for the backend
+# requirements.txt
+# Python packages for the ClinicMate backend.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+python-dotenv>=1.0
+google-genai>=1.0
+mcp[cli]>=1.9,<2
+firebase-admin>=6.5

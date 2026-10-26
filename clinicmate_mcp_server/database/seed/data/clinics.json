@@ -1,0 +1,26 @@
+[
+  { "name": "Gulberg Family Clinic",        "city": "Lahore",     "area": "Gulberg III",        "address": "45-B Main Boulevard, Gulberg III",     "phone": "042-0000-0101" },
+  { "name": "DHA Medical Centre",           "city": "Lahore",     "area": "DHA Phase 5",        "address": "12 CCA, Phase 5, DHA",                 "phone": "042-0000-0102" },
+  { "name": "Model Town Health Point",      "city": "Lahore",     "area": "Model Town",         "address": "88-C Link Road, Model Town",           "phone": "042-0000-0103" },
+  { "name": "Johar Town Care Hospital",     "city": "Lahore",     "area": "Johar Town",         "address": "210 Block G1, Johar Town",             "phone": "042-0000-0104" },
+  { "name": "Bahria Town Medical Complex",  "city": "Lahore",     "area": "Bahria Town",        "address": "Sector C, Commercial Area, Bahria Town","phone": "042-0000-0105" },
+  { "name": "Allama Iqbal Town Clinic",     "city": "Lahore",     "area": "Allama Iqbal Town",  "address": "33 Karim Block, Allama Iqbal Town",    "phone": "042-0000-0106" },
+
+  { "name": "Clifton Specialist Clinic",    "city": "Karachi",    "area": "Clifton",            "address": "Block 5, Clifton",                     "phone": "021-0000-0201" },
+  { "name": "DHA Karachi Health Centre",    "city": "Karachi",    "area": "DHA Phase 6",        "address": "Khayaban-e-Ittehad, Phase 6, DHA",     "phone": "021-0000-0202" },
+  { "name": "Gulshan Medical Centre",       "city": "Karachi",    "area": "Gulshan-e-Iqbal",    "address": "Block 13-D, Gulshan-e-Iqbal",          "phone": "021-0000-0203" },
+  { "name": "North Nazimabad Care Clinic",  "city": "Karachi",    "area": "North Nazimabad",    "address": "Block H, North Nazimabad",             "phone": "021-0000-0204" },
+  { "name": "PECHS Family Hospital",        "city": "Karachi",    "area": "PECHS",              "address": "Shahrah-e-Faisal, Block 6, PECHS",     "phone": "021-0000-0205" },
+
+  { "name": "F-8 Medical Centre",           "city": "Islamabad",  "area": "F-8 Markaz",         "address": "Plot 14, F-8 Markaz",                  "phone": "051-0000-0301" },
+  { "name": "Blue Area Specialist Clinic",  "city": "Islamabad",  "area": "Blue Area",          "address": "Jinnah Avenue, Blue Area",             "phone": "051-0000-0302" },
+  { "name": "G-11 Family Health Clinic",    "city": "Islamabad",  "area": "G-11 Markaz",        "address": "Street 3, G-11 Markaz",                "phone": "051-0000-0303" },
+  { "name": "E-11 Care Hospital",           "city": "Islamabad",  "area": "E-11",               "address": "Main Double Road, E-11/2",             "phone": "051-0000-0304" },
+
+  { "name": "Saddar Medical Complex",       "city": "Rawalpindi", "area": "Saddar",             "address": "Kashmir Road, Saddar",                 "phone": "051-0000-0401" },
+  { "name": "Satellite Town Clinic",        "city": "Rawalpindi", "area": "Satellite Town",     "address": "Commercial Market, Satellite Town",    "phone": "051-0000-0402" },
+  { "name": "Bahria Phase 7 Health Centre", "city": "Rawalpindi", "area": "Bahria Town Phase 7","address": "Spring North, Bahria Town Phase 7",    "phone": "051-0000-0403" },
+
+  { "name": "Madina Town Medical Centre",   "city": "Faisalabad", "area": "Madina Town",        "address": "Susan Road, Madina Town",              "phone": "041-0000-0501" },
+  { "name": "D Ground Family Clinic",       "city": "Faisalabad", "area": "Peoples Colony",     "address": "D Ground, Peoples Colony No. 1",       "phone": "041-0000-0502" }
+]

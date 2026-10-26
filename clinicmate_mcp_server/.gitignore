@@ -1,0 +1,5 @@
+# .gitignore
+# Files that must never go to Git (secrets, virtual env, Python cache).
+.env
+.venv/
+__pycache__/
